@@ -6,7 +6,7 @@ charset-normalizer==2.0.6
 cloudpickle==2.0.0
 google-auth==1.35.0
 google-auth-oauthlib==0.4.6
-grpcio==1.40.0
+grpcio==1.53.0
 h5py==3.4.0
 idna==3.2
 Markdown==3.3.4
